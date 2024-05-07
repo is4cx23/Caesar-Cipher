@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+.header-container{
+  display: flex;
+  justify-content: center;
+  padding: 1rem 0;
+}
+
+.header-logo{
+   height: 150px;
+}
