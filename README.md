@@ -1,6 +1,6 @@
-# Caesar-Cipher
+# Caesar Cipher
 
-## etapas do projeto
+## Etapas do projeto
 
-1. criar a rota do aplicativo
-2. criar o template HTML
+1. Criar a rota do aplicativo
+2. Criar o template HTML
