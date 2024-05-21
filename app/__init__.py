@@ -3,8 +3,8 @@ from flask import Flask, render_template, request, flash
 def create_app():
     #Create and configure the app
     app = Flask(__name__)
-
-    app.config['SECRET _KEY'] = 'g82ht23gweiojweiogijweighwejopgihweogpwejngwe'
+    app.config['SECRET_KEY'] = 'g82ht23gweiojweiogijweighwejopgihweogpwejngwe' 
+    
     @app.route("/")
     def home(name='Home'):
         return render_template('index.html', name=name)
