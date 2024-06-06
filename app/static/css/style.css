@@ -4,7 +4,7 @@
     --color-primary-dark: #990100;
 
     --color-text: #FFF0F3;
-    --color-background: #000000;
+    --color-background: #220901;
 }
 
 body {
@@ -14,8 +14,9 @@ body {
     font-size: 1.2rem;
     line-height: 1.5;
 }
-.alert{
-    font-size:1rem;
+
+.alert {
+    font-size: 1rem;
     padding: 2px;
     color: var(--color-text);
     background-color: var(--color-primary-dark);
